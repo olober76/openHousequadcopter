@@ -22,3 +22,6 @@ pip install -r requirement.txt
 
 Here is the example for face recognition.
 
+
+https://github.com/olober76/openHousequadcopter/assets/90765208/85cae945-eac5-4093-a034-c1d1c37a8911
+
