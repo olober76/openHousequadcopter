@@ -18,6 +18,8 @@ after that u have to install all library for the environtment
 pip install -r requirement.txt 
 ```
 
+Then u can run the code, enjoy!!
+
 #### Example
 
 Here is the example for face recognition.
